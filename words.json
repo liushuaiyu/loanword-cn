@@ -311,7 +311,97 @@
     "type": "tech_term",
     "meaning_en": "Cloud computing model with no server management",
     "translation_cn": "无服务器计算",
-    "explanation_cn": "云 computing 模型，开发者无需管理服务器，按实际使用量付费",
+    "explanation_cn": "云计算模型，开发者无需管理服务器，按实际使用量付费",
     "category": "computer_engineering"
+  },
+  {
+    "word": "Gaslighting",
+    "full": "Gaslighting",
+    "type": "loanword",
+    "meaning_en": "Psychological manipulation to make someone doubt their own sanity",
+    "translation_cn": "煤气灯效应",
+    "explanation_cn": "通过心理操纵使受害者怀疑自己的感知和理智，常见于亲密关系中的情感虐待",
+    "category": "social_psychology"
+  },
+  {
+    "word": "Impostor Syndrome",
+    "full": "Impostor Syndrome",
+    "type": "loanword",
+    "meaning_en": "Persistent feeling of being a fraud despite evidence of competence",
+    "translation_cn": "冒名顶替综合征",
+    "explanation_cn": "尽管有能力证明，仍持续感觉自己是个骗子，担心被发现不够资格",
+    "category": "psychology"
+  },
+  {
+    "word": "Attachment Style",
+    "full": "Attachment Style",
+    "type": "tech_term",
+    "meaning_en": "Pattern of emotional bonding in relationships",
+    "translation_cn": "依恋类型",
+    "explanation_cn": "个体在亲密关系中的情感联结模式，包括安全型、焦虑型、回避型等",
+    "category": "social_psychology"
+  },
+  {
+    "word": "Cognitive Dissonance",
+    "full": "Cognitive Dissonance",
+    "type": "tech_term",
+    "meaning_en": "Mental discomfort from conflicting beliefs or behaviors",
+    "translation_cn": "认知失调",
+    "explanation_cn": "当个体同时持有相互矛盾的信念或行为时产生的心理不适",
+    "category": "psychology"
+  },
+  {
+    "word": "Emotional Labor",
+    "full": "Emotional Labor",
+    "type": "loanword",
+    "meaning_en": "Management of emotions to meet job or social expectations",
+    "translation_cn": "情绪劳动",
+    "explanation_cn": "为满足工作或社交期望而进行的情感管理和表达",
+    "category": "social_psychology"
+  },
+  {
+    "word": "Mindfulness",
+    "full": "Mindfulness",
+    "type": "loanword",
+    "meaning_en": "Focused awareness on the present moment without judgment",
+    "translation_cn": "正念",
+    "explanation_cn": "不带评判地专注于当下的觉察，常用于减压和心理治疗",
+    "category": "psychology"
+  },
+  {
+    "word": "Toxic Positivity",
+    "full": "Toxic Positivity",
+    "type": "loanword",
+    "meaning_en": "Excessive focus on positivity that invalidates real emotions",
+    "translation_cn": "有毒的积极",
+    "explanation_cn": "过度强调积极情绪而忽视或否定真实情感，可能对心理健康造成伤害",
+    "category": "psychology"
+  },
+  {
+    "word": "Ambivert",
+    "full": "Ambivert",
+    "type": "loanword",
+    "meaning_en": "Person with both introverted and extroverted traits",
+    "translation_cn": "中间性格者",
+    "explanation_cn": "同时具有内向和外向特质的人，在不同情境中表现出不同的社交倾向",
+    "category": "psychology"
+  },
+  {
+    "word": "Catfishing",
+    "full": "Catfishing",
+    "type": "slang",
+    "meaning_en": "Creating a fake online identity to deceive others",
+    "translation_cn": "猫钓鱼",
+    "explanation_cn": "在网络上创建虚假身份以欺骗他人，常见于社交媒体和约会平台",
+    "category": "social_media"
+  },
+  {
+    "word": "Limerence",
+    "full": "Limerence",
+    "type": "loanword",
+    "meaning_en": "Intense romantic attraction with obsessive elements",
+    "translation_cn": "痴恋",
+    "explanation_cn": "带有强迫性元素的强烈 romantic 吸引力，常表现为对他人的过度痴迷",
+    "category": "social_psychology"
   }
 ]
