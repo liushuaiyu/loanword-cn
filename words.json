@@ -133,5 +133,185 @@
     "translation_cn": "远乡愁",
     "explanation_cn": "对陌生远方的强烈向往、类似乡愁的旅行渴望",
     "category": "emotion_psychology"
+  },
+  {
+    "word": "DevOps",
+    "full": "Development Operations",
+    "type": "portmanteau",
+    "meaning_en": "Combining software development and IT operations",
+    "translation_cn": "开发运维一体化",
+    "explanation_cn": "将软件开发与IT运维结合的方法论，强调团队协作与自动化",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "Docker",
+    "full": "Docker",
+    "type": "tech_term",
+    "meaning_en": "Containerization platform for applications",
+    "translation_cn": "容器化平台",
+    "explanation_cn": "轻量级的应用容器化技术，用于快速部署和管理应用程序",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "API",
+    "full": "Application Programming Interface",
+    "type": "acronym",
+    "meaning_en": "Set of rules for software interaction",
+    "translation_cn": "应用程序接口",
+    "explanation_cn": "不同软件组件之间交互的规则和协议集合",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "SaaS",
+    "full": "Software as a Service",
+    "type": "acronym",
+    "meaning_en": "Software delivered over the internet",
+    "translation_cn": "软件即服务",
+    "explanation_cn": "通过互联网提供的软件服务，用户按需订阅使用",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "IoT",
+    "full": "Internet of Things",
+    "type": "acronym",
+    "meaning_en": "Network of connected devices",
+    "translation_cn": "物联网",
+    "explanation_cn": "通过互联网连接的智能设备网络，实现设备间数据交换",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "ML",
+    "full": "Machine Learning",
+    "type": "acronym",
+    "meaning_en": "AI subset that learns from data",
+    "translation_cn": "机器学习",
+    "explanation_cn": "人工智能的一个分支，使计算机能够从数据中学习而无需明确编程",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "UX",
+    "full": "User Experience",
+    "type": "acronym",
+    "meaning_en": "Overall experience of using a product",
+    "translation_cn": "用户体验",
+    "explanation_cn": "用户使用产品或服务时的整体感受和交互体验",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "Git",
+    "full": "Git",
+    "type": "tech_term",
+    "meaning_en": "Distributed version control system",
+    "translation_cn": "版本控制系统",
+    "explanation_cn": "分布式版本控制系统，用于跟踪代码变更和协作开发",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "VPN",
+    "full": "Virtual Private Network",
+    "type": "acronym",
+    "meaning_en": "Secure network connection over public network",
+    "translation_cn": "虚拟专用网络",
+    "explanation_cn": "在公共网络上创建安全加密的连接，保护数据传输安全",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "AI",
+    "full": "Artificial Intelligence",
+    "type": "acronym",
+    "meaning_en": "Intelligent machines that mimic human cognitive functions",
+    "translation_cn": "人工智能",
+    "explanation_cn": "模拟人类认知功能的智能机器，包括学习、推理和问题解决能力",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "CI/CD",
+    "full": "Continuous Integration/Continuous Deployment",
+    "type": "acronym",
+    "meaning_en": "Automated software delivery process",
+    "translation_cn": "持续集成/持续部署",
+    "explanation_cn": "自动化的软件交付流程，实现代码集成、测试和部署的自动化",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "Cloud Computing",
+    "full": "Cloud Computing",
+    "type": "tech_term",
+    "meaning_en": "On-demand delivery of computing resources over the internet",
+    "translation_cn": "云计算",
+    "explanation_cn": "通过互联网按需提供计算资源的服务模式，包括存储、服务器和应用程序",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "Big Data",
+    "full": "Big Data",
+    "type": "tech_term",
+    "meaning_en": "Large and complex data sets",
+    "translation_cn": "大数据",
+    "explanation_cn": "规模巨大、类型多样的数据集，需要专门的技术和工具进行处理和分析",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "Cybersecurity",
+    "full": "Cybersecurity",
+    "type": "tech_term",
+    "meaning_en": "Protection of computer systems and networks",
+    "translation_cn": "网络安全",
+    "explanation_cn": "保护计算机系统、网络和数据免受未经授权的访问、攻击和损害",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "Edge Computing",
+    "full": "Edge Computing",
+    "type": "tech_term",
+    "meaning_en": "Processing data closer to the source",
+    "translation_cn": "边缘计算",
+    "explanation_cn": "将数据处理和存储放在靠近数据源的边缘设备上，减少延迟和带宽使用",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "Blockchain",
+    "full": "Blockchain",
+    "type": "tech_term",
+    "meaning_en": "Distributed ledger technology",
+    "translation_cn": "区块链",
+    "explanation_cn": "分布式账本技术，通过加密和共识机制确保数据的不可篡改和透明性",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "AR/VR",
+    "full": "Augmented Reality/Virtual Reality",
+    "type": "acronym",
+    "meaning_en": "Technologies that create immersive experiences",
+    "translation_cn": "增强现实/虚拟现实",
+    "explanation_cn": "增强现实(AR)叠加数字信息到现实世界，虚拟现实(VR)创建完全虚拟的环境",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "5G",
+    "full": "5th Generation Mobile Networks",
+    "type": "acronym",
+    "meaning_en": "Latest mobile network technology",
+    "translation_cn": "5G网络",
+    "explanation_cn": "第五代移动通信技术，提供更高的速度、更低的延迟和更大的连接容量",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "Quantum Computing",
+    "full": "Quantum Computing",
+    "type": "tech_term",
+    "meaning_en": "Computing using quantum-mechanical phenomena",
+    "translation_cn": "量子计算",
+    "explanation_cn": "利用量子力学现象进行计算的技术，能够解决传统计算机难以处理的问题",
+    "category": "computer_engineering"
+  },
+  {
+    "word": "Serverless",
+    "full": "Serverless Computing",
+    "type": "tech_term",
+    "meaning_en": "Cloud computing model with no server management",
+    "translation_cn": "无服务器计算",
+    "explanation_cn": "云 computing 模型，开发者无需管理服务器，按实际使用量付费",
+    "category": "computer_engineering"
   }
 ]
