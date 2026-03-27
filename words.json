@@ -1,0 +1,137 @@
+[
+  {
+    "word": "FOMO",
+    "full": "Fear Of Missing Out",
+    "type": "acronym",
+    "meaning_en": "Fear of missing out on events, experiences, or opportunities",
+    "translation_cn": "错失焦虑症",
+    "explanation_cn": "因害怕错过社交、热点、机会而产生的焦虑心态",
+    "category": "social_psychology"
+  },
+  {
+    "word": "Sonder",
+    "full": "Sonder",
+    "type": "loanword",
+    "meaning_en": "The realization that everyone has a complex life",
+    "translation_cn": "众生意",
+    "explanation_cn": "突然意识到每个路人都拥有和自己一样复杂、鲜活的人生",
+    "category": "philosophy_psychology"
+  },
+  {
+    "word": "Schadenfreude",
+    "full": "Schadenfreude",
+    "type": "loanword",
+    "meaning_en": "Pleasure from others' misfortune",
+    "translation_cn": "幸乐祸",
+    "explanation_cn": "从他人的不幸中获得隐秘的愉悦，比普通“幸灾乐祸”更细腻",
+    "category": "psychology"
+  },
+  {
+    "word": "Ikigai",
+    "full": "Ikigai",
+    "type": "loanword",
+    "meaning_en": "Reason for being, life purpose",
+    "translation_cn": "生甲斐",
+    "explanation_cn": "让人每天愿意起床的生存意义，热爱与使命的结合点",
+    "category": "lifestyle_psychology"
+  },
+  {
+    "word": "Delulu",
+    "full": "Delusional",
+    "type": "slang_abbr",
+    "meaning_en": "Overly idealistic, delusional thinking",
+    "translation_cn": "痴想症",
+    "explanation_cn": "过度幻想、自我洗脑、饭圈式痴心妄想",
+    "category": "internet_slang"
+  },
+  {
+    "word": "Rizz",
+    "full": "Rizz",
+    "type": "slang",
+    "meaning_en": "Charm, flirting ability, charisma",
+    "translation_cn": "魅撩力",
+    "explanation_cn": "天生魅力、搭讪技巧、吸引他人的能力",
+    "category": "internet_slang"
+  },
+  {
+    "word": "Stan",
+    "full": "Stan",
+    "type": "slang",
+    "meaning_en": "An extremely devoted fan",
+    "translation_cn": "死忠粉",
+    "explanation_cn": "狂热、偏执、深度投入的粉丝，中性偏贬",
+    "category": "fandom_internet"
+  },
+  {
+    "word": "GOAT",
+    "full": "Greatest Of All Time",
+    "type": "acronym",
+    "meaning_en": "The greatest ever",
+    "translation_cn": "史上最佳",
+    "explanation_cn": "公认历史最强、最顶尖的人或事物",
+    "category": "internet_slang"
+  },
+  {
+    "word": "NPC",
+    "full": "Non-Player Character",
+    "type": "acronym",
+    "meaning_en": "Unthinking, conformist person",
+    "translation_cn": "工具人",
+    "explanation_cn": "比喻缺乏独立思考、随波逐流、只会重复行为的人",
+    "category": "internet_meme"
+  },
+  {
+    "word": "Ghosting",
+    "full": "Ghosting",
+    "type": "slang",
+    "meaning_en": "Sudden silent disappearance in relationship",
+    "translation_cn": "幽灵式失联",
+    "explanation_cn": "社交中突然彻底消失、不告而别、已读不回",
+    "category": "social_relationship"
+  },
+  {
+    "word": "Vibe",
+    "full": "Vibe",
+    "type": "slang",
+    "meaning_en": "Atmosphere, feeling, energy",
+    "translation_cn": "气场氛围",
+    "explanation_cn": "环境或人带来的整体感觉、气场、合拍度",
+    "category": "daily_slang"
+  },
+  {
+    "word": "Flex",
+    "full": "Flex",
+    "type": "slang",
+    "meaning_en": "Show off wealth or status",
+    "translation_cn": "炫示",
+    "explanation_cn": "刻意炫耀财富、能力、优越感，类似凡尔赛",
+    "category": "internet_slang"
+  },
+  {
+    "word": "Ratio",
+    "full": "Ratio",
+    "type": "slang",
+    "meaning_en": "Getting more replies than likes, being ratioed",
+    "translation_cn": "评赞倒挂",
+    "explanation_cn": "评论远多于点赞，被网友群嘲、翻车",
+    "category": "social_media"
+  },
+  {
+    "word": "Bromance",
+    "full": "Bromance",
+    "type": "portmanteau",
+    "meaning_en": "Close non-romantic male friendship",
+    "translation_cn": "铁兄弟情",
+    "explanation_cn": "男性间极度亲密但无性暗示的纯粹友谊",
+    "category": "relationship"
+  },
+  {
+    "word": "Fernweh",
+    "full": "Fernweh",
+    "type": "loanword",
+    "meaning_en": "Wanderlust, ache for faraway places",
+    "translation_cn": "远乡愁",
+    "explanation_cn": "对陌生远方的强烈向往、类似乡愁的旅行渴望",
+    "category": "emotion_psychology"
+  }
+]
